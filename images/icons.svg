@@ -1,5 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
   <defs>
+    <!-- burger-menu -->
+
+    <symbol id="burger-menu" viewBox="0 0 32 22">
+      <g clip-path="url(#clip0_297053_2156)">
+        <path d="M1.34766 20.0431H30.8861M1.34766 10.7354H30.8861M1.34766 1.42773H30.8861" stroke="#2E2F42"
+          stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+      <defs>
+        <clipPath id="clip0_297053_2156">
+          <rect fill="white" />
+        </clipPath>
+      </defs>
+    </symbol>
+
+
+
     <!-- goals -->
     <symbol id="antenna" viewBox="0 0 32 32">
       <path fill="#2e2f42"
