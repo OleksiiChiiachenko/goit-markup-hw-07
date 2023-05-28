@@ -934,16 +934,9 @@ button {
 
 }
 
-@media only screen and (min-width: 768px) {
-    .projects-list {
-        row-gap: 72px;
-
-    }
-}
-
 @media only screen and (min-width: 1158px) {
     .projects-list {
-        /* row-gap: 48px; */
+
         column-gap: 24px;
         --items: 3;
     }
